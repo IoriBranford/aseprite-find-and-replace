@@ -1,14 +1,14 @@
 {
-    "name": "find-and-replace",
-    "displayName": "Find and Replace",
-    "description": "Find and replace parts of tag names and layer names",
+    "name": "find-and-replace-text",
+    "displayName": "Find and Replace Text",
+    "description": "Find and replace text in tag names, layer names, slice names, user data",
     "version": "0.1",
     "author": { "name": "Iori Branford",
                 "email": "ioribranford@gmail.com",
                 "url": "https://ioribranford.com/" },
     "contributors": [ ],
     "publisher": "myname",
-    "license": "CC-BY-4.0",
+    "license": "BSD-3-Clause",
     "categories": [ "Scripts" ],
     "contributes": {
       "scripts": [
